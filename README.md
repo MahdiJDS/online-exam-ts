@@ -17,12 +17,7 @@
 
 ---
 
-## 🖼️ Demo
 
-[Online Exam Demo](https://mahdijds.github.io/online-exam-ts)
-
-
----
 
 ## 🛠️ Tech Stack
 
