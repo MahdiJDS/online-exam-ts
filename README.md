@@ -19,8 +19,7 @@
 
 ## 🖼️ Demo
 
-### 📸 Screenshot:
-![Online Exam Demo](https://mahdijds.github.io/online-exam-ts)
+[Online Exam Demo](https://mahdijds.github.io/online-exam-ts)
 
 
 ---
