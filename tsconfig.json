@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "es6",
+    "esModuleInterop": true, /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */
+    "forceConsistentCasingInFileNames": true, /* Ensure that casing is correct in imports. */
+    "outDir": "./dist", // ← این خط مسیر خروجی رو تعیین می‌کنه
+    "rootDir": "./src", // ← این خط می‌گه فایل‌های ورودی کجا هستند
+    "strict": true, /* Enable all strict type-checking options. */
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */
+  },
+  "include": ["src"]
+}
