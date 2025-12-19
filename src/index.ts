@@ -197,7 +197,7 @@ btnAgain.addEventListener('click', () => {
 
 
 let timeOff: number = Number(time.textContent);
-let t: number;
+let t: ReturnType<typeof setInterval>;;
 
 function timer(): void {
     t = setInterval(() => {
