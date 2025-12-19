@@ -17,11 +17,10 @@
 
 ---
 
-## 🖼️ Demo
 
-### 📸 Screenshot:
-![Online Exam Demo](https://mahdijds.github.io/online-exam-ts)
+## 📸 Screenshot:
 
+![[Online-Exam]](./public/img/ScreenShut-Exam.png)  .
 
 ---
 
@@ -34,7 +33,7 @@
 ---
 
 ## ⚡ Getting Started
-
+```bash
 1. Clone the repository:
 
 git clone https://github.com/MahdiJDS/online-exam-ts.git
@@ -51,6 +50,7 @@ npm run dev
 
 open index.html
 
+```
 ---
 
 ## 🎯 Why This Project Matters
